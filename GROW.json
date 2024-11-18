@@ -278,6 +278,110 @@
         "name": "doigby.jpg",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Arrow_Spinning_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Arrow_Spinning_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/aedc79d79738d13cdc4f15422c6a73455bb55b0c020f7060292107d75b326c16_Arrow_Spinning_1.png",
+          "name": "Arrow_Spinning_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Arrow_Spinning_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Arrow_Spinning_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/e1957fe45baeab4082c2ed220eb93bd999b77959a01373120aa712379dca21e1_Arrow_Spinning_2.png",
+          "name": "Arrow_Spinning_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Arrow_Spinning_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Arrow_Spinning_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/c0aa2d3fac842a2b1eb6079891138ef5bda19ea7158a62fb9ef0f5b6f23ca19c_Arrow_Spinning_3.png",
+          "name": "Arrow_Spinning_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Arrow_Spinning_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Arrow_Spinning_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/072687cfe1e3f13203b06a654371fef626cc1f760046cb43f1223539c9440dec_Arrow_Spinning_4.png",
+          "name": "Arrow_Spinning_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Arrow_Spinning_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Arrow_Spinning_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/814343c5137619463e0a6091a808bb1a87f013415f099343f7b8c499bcab6e54_Arrow_Spinning_5.png",
+          "name": "Arrow_Spinning_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Arrow_Spinning_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Arrow_Spinning_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/072687cfe1e3f13203b06a654371fef626cc1f760046cb43f1223539c9440dec_Arrow_Spinning_6.png",
+          "name": "Arrow_Spinning_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Arrow_Spinning_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Arrow_Spinning_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/d5bbcc859c1003dcfc6813c8d8414eda160dac4a27b8f4c1a1e1e81aa98bc16f_Arrow_Spinning_7.png",
+          "name": "Arrow_Spinning_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Arrow_Spinning_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Arrow_Spinning_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/e1957fe45baeab4082c2ed220eb93bd999b77959a01373120aa712379dca21e1_Arrow_Spinning_8.png",
+          "name": "Arrow_Spinning_8.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -300,6 +404,14 @@
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/advancedjump"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/coeur"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/linearmovement"
