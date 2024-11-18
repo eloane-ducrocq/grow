@@ -174,7 +174,7 @@
         "alwaysLoaded": false,
         "file": "assets/tiled_Ground Layer 1.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/tiled_Ground Layer 1.png\",\"extension\":\".png\",\"pskl\":{}}",
         "name": "tiled_Ground Layer 1.png",
         "smoothed": true,
         "userAdded": false,
@@ -220,6 +220,45 @@
         "origin": {
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/7b77c8a350999469ddf39a84d6abdde284dce704e159b5635982ac6f6c552195_Blue flower.png",
           "name": "Blue flower.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sun_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sun_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/New Icons/449c924ccb1114dbf0cec09482a50571ec10c46fbc56485b280e70cae5c464f8_Sun_No Shadow.png",
+          "name": "Sun_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sun_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sun_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/New Icons/35f51e3332b16b256337c11073aa75d734022b0fa32f06c4a817e5eeb440c0ad_Sun_Shadow.png",
+          "name": "Sun_Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cloud 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cloud 1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Background Objects/Retina/85b0e6d046a9a1e13436b94863721bd6ba25a1f3e898802ce3e0df53d4b16fe6_cloud 1.png",
+          "name": "cloud 1.png"
         }
       }
     ],
