@@ -257,9 +257,34 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "pot",
+      "persistentUuid": "b588ad83-b4d1-411b-9609-6e7ac991fd1e",
+      "width": 0,
+      "x": 654,
+      "y": 350,
+      "zOrder": 16,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
+    {
+      "assetStoreId": "",
+      "name": "pot",
+      "type": "pot::pot",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {}
+    },
     {
       "assetStoreId": "",
       "name": "coeur",
@@ -770,6 +795,8 @@
           "PlatformerCharacter": "PlatformerObject"
         },
         {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
           "acceleration": 1500,
           "canGoDownFromJumpthru": true,
           "canGrabPlatforms": false,
@@ -782,9 +809,7 @@
           "ladderClimbingSpeed": 150,
           "maxFallingSpeed": 0,
           "maxSpeed": 250,
-          "name": "PlatformerObject",
           "slopeMaxAngle": 60,
-          "type": "PlatformBehavior::PlatformerObjectBehavior",
           "useLegacyTrajectory": false,
           "xGrabTolerance": 10,
           "yGrabOffset": 0
@@ -871,6 +896,9 @@
       },
       {
         "objectName": "coeur"
+      },
+      {
+        "objectName": "pot"
       }
     ]
   },

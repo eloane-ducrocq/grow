@@ -382,6 +382,32 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/e1957fe45baeab4082c2ed220eb93bd999b77959a01373120aa712379dca21e1_Arrow_Spinning_8.png",
           "name": "Arrow_Spinning_8.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Plant-Pot Seedling_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Plant-Pot Seedling_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/General Items/2ea432e23355a27840a187c187758a615cc3b2821e61d3c068601293eb356160_Plant-Pot Seedling_No Shadow.png",
+          "name": "Plant-Pot Seedling_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Plant-Pot Seedling_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Plant-Pot Seedling_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/General Items/58ce11137ed5f7541a5628f08706c9749bbddeb45f4f62c160f7810831a2bd57_Plant-Pot Seedling_Shadow.png",
+          "name": "Plant-Pot Seedling_Shadow.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -404,6 +430,10 @@
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/pot"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/advancedjump"
