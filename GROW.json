@@ -260,6 +260,24 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Background Objects/Retina/85b0e6d046a9a1e13436b94863721bd6ba25a1f3e898802ce3e0df53d4b16fe6_cloud 1.png",
           "name": "cloud 1.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../Pictures/Capture.PNG",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\Pictures\\Capture.PNG",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "doigby.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "doigby.jpg",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -282,6 +300,10 @@
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/linearmovement"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/tiledunitsbar"
