@@ -25,30 +25,10 @@
     {
       "name": "essaie",
       "objects": []
-    },
-    {
-      "name": "essaie2",
-      "objects": []
     }
   ],
   "variables": [],
   "instances": [
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "FlatHeartBar",
-      "persistentUuid": "7e9cd912-ca3d-4673-993d-70f81222218c",
-      "width": 0,
-      "x": 972,
-      "y": 86,
-      "zOrder": 1,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
     {
       "angle": 0,
       "customSize": true,
@@ -66,9 +46,344 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "BigGreenTree5",
+      "persistentUuid": "b08aa248-1f4e-42df-86f0-62ef9c1aa696",
+      "width": 0,
+      "x": 1110,
+      "y": 226,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "BigGreenTree5",
+      "persistentUuid": "43f2a8be-fb70-420a-8c82-9c97aa536afb",
+      "width": 0,
+      "x": 26,
+      "y": 222,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "BigGreenTree8",
+      "persistentUuid": "3a5ad6dd-4387-4cb5-90fe-c454f2d07a96",
+      "width": 0,
+      "x": 1029,
+      "y": 220,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "BigGreenTree8",
+      "persistentUuid": "634f1118-3cfb-47c8-93d0-3aa831b99a36",
+      "width": 0,
+      "x": 112,
+      "y": 198,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "BlueFlower",
+      "persistentUuid": "10ddff8c-229f-4ac0-962b-b442a34cc9bb",
+      "width": 0,
+      "x": 1149,
+      "y": 565,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "BlueFlower",
+      "persistentUuid": "3f13f36a-2ad4-4d70-9f56-3d99a2bd6dcd",
+      "width": 0,
+      "x": 1056,
+      "y": 584,
+      "zOrder": 8,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "BlueFlower",
+      "persistentUuid": "f48fb1e1-fdd6-46b6-9013-8fd949f52970",
+      "width": 0,
+      "x": 28,
+      "y": 575,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "BlueFlower",
+      "persistentUuid": "cfe11b8d-f784-449b-b92a-a3801b708fca",
+      "width": 0,
+      "x": 121,
+      "y": 559,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "FlatHeartBar",
+      "persistentUuid": "8650eccf-835e-4270-82f7-6121e7c3cc40",
+      "width": 0,
+      "x": 995,
+      "y": 24,
+      "zOrder": 11,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
+    {
+      "assetStoreId": "8b547d46afbdc825cd5e56c96b8b669157f589b612739fd7499de288f8c97b8e",
+      "height": 400,
+      "name": "GroundLayer1",
+      "texture": "tiled_Ground Layer 1.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 1024,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "e05ae17873219644e3cc85f8d719937180df3241425ce5c1bbef88aecc911e0a",
+      "name": "BigGreenTree5",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Big green tree 5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 176,
+                        "y": 0
+                      },
+                      {
+                        "x": 176,
+                        "y": 421
+                      },
+                      {
+                        "x": 0,
+                        "y": 421
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "df408a5f119daf4eedc9c33e2270c8d3c5554747b367850106402e59971469d0",
+      "name": "BigGreenTree8",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Big green tree 8.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 134,
+                        "y": 0
+                      },
+                      {
+                        "x": 134,
+                        "y": 470
+                      },
+                      {
+                        "x": 0,
+                        "y": 470
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "b4eaf4645edd7043009ad5db8c107dbdc1e3a87c29ec3547d7ebe4805653c36a",
+      "name": "BlueFlower",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Blue flower.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 82,
+                        "y": 0
+                      },
+                      {
+                        "x": 82,
+                        "y": 121
+                      },
+                      {
+                        "x": 0,
+                        "y": 121
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "assetStoreId": "c807d51d4bab0016401aef4d64d10d137f5ac8738ffa15865e1bc81435b9720b",
       "name": "FlatHeartBar",
@@ -103,27 +418,25 @@
           "width": 90
         }
       }
-    },
-    {
-      "assetStoreId": "8b547d46afbdc825cd5e56c96b8b669157f589b612739fd7499de288f8c97b8e",
-      "height": 400,
-      "name": "GroundLayer1",
-      "texture": "tiled_Ground Layer 1.png",
-      "type": "TiledSpriteObject::TiledSprite",
-      "width": 1024,
-      "variables": [],
-      "effects": [],
-      "behaviors": []
     }
   ],
   "objectsFolderStructure": {
     "folderName": "__ROOT",
     "children": [
       {
-        "objectName": "FlatHeartBar"
+        "objectName": "GroundLayer1"
       },
       {
-        "objectName": "GroundLayer1"
+        "objectName": "BigGreenTree5"
+      },
+      {
+        "objectName": "BigGreenTree8"
+      },
+      {
+        "objectName": "BlueFlower"
+      },
+      {
+        "objectName": "FlatHeartBar"
       }
     ]
   },

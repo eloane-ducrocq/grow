@@ -182,6 +182,45 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Background Elements/4b851fc9189ec8d80bdfd04a006dcaa293fb0ff2b7863a66dd348bfe08d0d195_tiled_Ground Layer 1.png",
           "name": "tiled_Ground Layer 1.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big green tree 5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big green tree 5.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/6389525b557f178f96f14136c47b478361cf396d55a69a0cde804b3002f68736_Big green tree 5.png",
+          "name": "Big green tree 5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big green tree 8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Big green tree 8.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/02238342977533f5a953a394acff481080c8845b6a4422a0a6fc2b9818c52d62_Big green tree 8.png",
+          "name": "Big green tree 8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blue flower.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blue flower.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/7b77c8a350999469ddf39a84d6abdde284dce704e159b5635982ac6f6c552195_Blue flower.png",
+          "name": "Blue flower.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -213,6 +252,15 @@
       "referenceTo": "/eventsFunctionsExtensions/panelspritecontinuousbar"
     }
   ],
-  "externalLayouts": [],
+  "externalLayouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalLayouts/tui"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalLayouts/jko"
+    }
+  ],
   "externalSourceFiles": []
 }
